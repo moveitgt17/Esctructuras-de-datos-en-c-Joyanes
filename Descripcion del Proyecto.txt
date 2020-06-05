@@ -1,8 +1,0 @@
-Este repositorio, es parte del resumen hecho del libro estructuras de 
-datos en c++,de Luis Joyanes Aguilar primera edición, en donde se tratan
-de resolver los distintos ejemplo en c++ que el libro presentan.
-
-Los ejemplos se presentan por capitulo, y cada parte indica que es lo que
-se esta realizando, con diferentes commits por capitulo.
-
-Este repositorio es solo con fines de practica

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1591554069 source:c:\users\carlos\desktop\estructuras de datos en c++, joyanes\capitulo2_ejercicio2.1\main.cpp
+	<iostream>
+	"DiaAnyo.h"
+
+1591554223 c:\users\carlos\desktop\estructuras de datos en c++, joyanes\capitulo2_ejercicio2.1\include\diaanyo.h
+
+1591554275 source:c:\users\carlos\desktop\estructuras de datos en c++, joyanes\capitulo2_ejercicio2.1\src\diaanyo.cpp
+	"DiaAnyo.h"
+	<iostream>
+

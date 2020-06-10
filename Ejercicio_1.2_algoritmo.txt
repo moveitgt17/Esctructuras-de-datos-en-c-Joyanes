@@ -1,0 +1,11 @@
+INICIO
+1. Leer x, leer y
+2. Declarar v = 0
+3. ¿x=0 y y=0? si es falso paso 3, si es verdadero paso 9
+4. Imprimir "Minutos: " y valor de x
+5. Imprimir "Segundos: " y valor de y
+6. Calcular v = 1500/((x*60)+y)
+7. Imprimir "Velocidad: " y valor de v
+8. Regresar al paso 2
+9. Imprimir "Fin del programa"
+FIN
